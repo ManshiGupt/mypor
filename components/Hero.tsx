@@ -1,3 +1,4 @@
+
 import React from 'react'
 import {Spotlight} from "./ui/Spotlight";
 import {TextGenerateEffect} from "./ui/TextGenerateEffect";
@@ -28,7 +29,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I am Manshi,based in Gurugram.
+            Hi, I am Manshi, based in Gurugram.
 
           </p>
           <a href="#about">
