@@ -29,7 +29,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I am Manshi, based in Gurugram.
+            Hi, I am Manshi, based in Bengaluru.
 
           </p>
           <a href="#about">
