@@ -76,7 +76,7 @@ export const projects = [
     des: "Pandit Booking and purchase of Pooja's items",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "/vedicpandit.in",
   },
   {
     id: 2,
@@ -84,11 +84,11 @@ export const projects = [
     des: "HR portal",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "/timekeeperx.com",
   },
   {
     id: 3,
-    title: "To-do App",
+    title: "True Docu",
     des: "To list all the necssary tasks and remove,once it completed",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
@@ -96,8 +96,8 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Snake Game",
-    des: "The classic snake game",
+    title: "WebTinder",
+    des: "Plateform to connect webdeveloper",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
@@ -109,19 +109,19 @@ export const testimonials = [
     quote:
       "Collaborating with Manshi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manshi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manshi is the ideal partner.",
     name: "Ravi Shankar",
-    title: "Director of AlphaStream Technologies",
+    title: "Manager at Vedic pandit",
   },
   {
     quote:
       "Collaborating with Manshi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manshi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manshi is the ideal partner.",
     name: "Ishan",
-    title: "Director of AlphaStream Technologies",
+    title: "SDE at Delivery",
   },
   {
     quote:
       "Collaborating with Manshi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manshi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manshi is the ideal partner.",
     name: "Divya Praksh",
-    title: "Director of AlphaStream Technologies",
+    title: "Manager at AUM Group",
   },
   {
     quote:
@@ -129,36 +129,31 @@ export const testimonials = [
     name: "Himalay",
     title: "Mine Gate LLP",
   },
-  {
-    quote:
-      "Collaborating with Manshi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manshi's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manshi is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
+  
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "html",
     img: "/cloud.svg",
     nameImg: "/cloudName.svg",
   },
   {
     id: 2,
-    name: "appwrite",
+    name: "tailwindcss",
     img: "/app.svg",
     nameImg: "/appName.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
+    name: "JAVASCRIPT",
     img: "/host.svg",
     nameImg: "/hostName.svg",
   },
   {
     id: 4,
-    name: "stream",
+    name: "NODEJS",
     img: "/s.svg",
     nameImg: "/streamName.svg",
   },
